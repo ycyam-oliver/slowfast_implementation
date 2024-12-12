@@ -13,7 +13,7 @@ In the `test_data_prep` directory, if you want to annotate the detection and mot
 ├── reference_modules.txt # module requirement list for reference
 ├── test_data_prep
 │   ├── CutVideosI.ipynb # cut a video into 1 frame/second (demo only, results not used)
-│   ├── CutVideosII.ipynb # show how to cut a video into 30 frames/second (demo only, results not used)
+│   ├── CutVideosII.ipynb # cut a video into 30 frames/second (demo only, results not used)
 │   ├── test_video # example videos with annotation files
 │   ├── create_slowfast_data_AVA.ipynb # MAIN code to prepare the relevant data in AVA format
 │   └── test_data_run
