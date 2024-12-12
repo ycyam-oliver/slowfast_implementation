@@ -1,7 +1,7 @@
 # slowfast_implementation
 This repository provides an example on how to prepare data in AVA format and do the training for the SlowFast model. 
 
-- The official repo of SlowFast is from https://github.com/facebookresearch/SlowFast . Some modifications have made to its setting in order to run the model for customized videos. All the relevant files including the modifications and the models have been put in the 'SlowFast' directory. 
+- The official repo of SlowFast is from [Edinburgh Pig Behavior Video Dataset](https://github.com/facebookresearch/SlowFast) . Some modifications have made to its setting in order to run the model for customized videos. All the relevant files including the modifications and the models have been put in the `SlowFast` directory. 
 
 - A requirements list (for your reference) has been made for building the enviornment for training or doing inference for the SlowFast model. It can be found in the 'reference_modules.txt' 
 
