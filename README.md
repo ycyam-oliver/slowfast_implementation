@@ -15,7 +15,7 @@ In the `test_data_prep` directory, if you want to annotate the detection and mot
 │   ├── test_video # example videos with annotation files
 │   ├── create_slowfast_data_AVA.ipynb # MAIN code to prepare the relevant data in AVA format
 │   └── test_data_run
-│       └── train_PIGS.ipynb # # MAIN code to do the SlowFast model training
+│       └── train_PIGS.ipynb # MAIN code to do the SlowFast model training
 ```
 
 
