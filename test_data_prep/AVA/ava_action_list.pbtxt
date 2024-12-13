@@ -1,0 +1,45 @@
+label{
+  name:"unknown"
+  label_id: 1
+  label_type: PIG_movements
+}
+label{
+  name:"not moving"
+  label_id: 2
+  label_type: PIG_movements
+}
+label{
+  name:"moving"
+  label_id: 3
+  label_type: PIG_movements
+}
+label{
+  name:"running"
+  label_id: 4
+  label_type: PIG_movements
+}
+label{
+  name:"eating"
+  label_id: 5
+  label_type: PIG_movements
+}
+label{
+  name:"drinking"
+  label_id: 6
+  label_type: PIG_movements
+}
+label{
+  name:"playing"
+  label_id: 7
+  label_type: PIG_movements
+}
+label{
+  name:"standing"
+  label_id: 8
+  label_type: PIG_movements
+}
+label{
+  name:"lying"
+  label_id: 9
+  label_type: PIG_movements
+}
